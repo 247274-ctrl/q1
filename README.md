@@ -444,11 +444,11 @@ Greeting App
 ---
 
 # ***Final Output***
+<img width="1903" height="883" alt="image" src="https://github.com/user-attachments/assets/5e88cc0a-39fa-4986-977e-1fe0b79f7e8b" />
+<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/546f421b-96a3-4d3b-8f3d-a50bf23c6682" />
 
-```text
-Greeting App
 
-Hello, Ahmed 😄
+
 ```
 
 ---
